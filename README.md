@@ -70,6 +70,7 @@ I am **Anshuman Shukla**, a Computer Science Engineering undergraduate passionat
 | **🎮 Nokia Snake Gesture Control** | Control the classic Snake game using real-time hand gesture recognition — no keyboard needed | `Python` `OpenCV` `MediaPipe` `NumPy` |
 | **🎙️ AI Speech App** | Voice-driven intelligent assistant with speech recognition, NLU & AI-generated responses | `Python` `Generative AI` `Web Speech API` |
 | **📝 Smart Attendance App** | Facial recognition-based attendance platform with real-time Firebase record management | `Python` `OpenCV` `Firebase` `Flask` |
+| **📈 India Job Market Intelligence 2026** | Data analytics project uncovering skill demand, hiring trends, salary insights, and AI job growth across India | `Python` `Pandas` `SQL` `Power BI` |
 | **🌐 Portfolio Website** | Responsive developer portfolio with modern UI, skills, projects & GitHub activity | `React.js` `JavaScript` `HTML` `CSS` |
 
 </div>
